@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Main Website - frontend
 
 ## Project info
 
@@ -48,5 +48,3 @@ This project is built with .
 - React
 - shadcn-ui
 - Tailwind CSS
-
-
